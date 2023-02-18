@@ -1,6 +1,6 @@
 <?php
 // Configurable Options
-$discord_webhook = "https://discord.com/api/webhooks/1076189720532496384/a7_lcC35UHj0AxnDY5DtKue3DkUbG7LgUjDoJLyatTxD-wYPNYeco1qvyPv-i_hH7HP8";
+$discord_webhook = "https://discord.com/api/webhooks";
 $webhook_name = 'Dimis Website Logs';
 $webhook_pfp = 'https://cdn.discordapp.com/avatars/1069953502069149696/f5e4247f074ee055e37243e222feae55.png';
 $thumbnail_image = 'https://cdn.discordapp.com/avatars/1069953502069149696/f5e4247f074ee055e37243e222feae55.png';
