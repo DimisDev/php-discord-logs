@@ -5,9 +5,6 @@ An Analytic Website Discord Info Logger Coded in PHP (Uses ip-api.com & ipapi.co
 # Discord Output:
 ![webhook](https://cdn.discordapp.com/attachments/1076189699087024211/1076211479562436668/image.png)
 
-# Website Output:
-![website](https://cdn.discordapp.com/attachments/1076189699087024211/1076211532066738186/image.png)
-
 # Installation Steps:
 1. Drop the file inside your website files
 2. Configure the Options in the top of the file (Webhook Information)
