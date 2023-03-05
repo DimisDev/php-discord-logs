@@ -2,6 +2,8 @@
 An Analytic Website Discord Info Logger Coded in PHP (Uses ip-api.com & ipapi.co APIs for information gathering)
 ⚠️Warning: The Logger is created for educational purposes and only for Traffic Tracking for Development reasons, Im am not responsible for any wrong/illegal use of the code!
 
+![Showcase](https://cdn.discordapp.com/attachments/1081950253944676492/1081951388453576795/image.png)
+
 # Installation Steps:
 1. Drop the file inside your website files
 2. Configure the Options in the top of the file (Webhook Information)
