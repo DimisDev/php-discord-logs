@@ -16,3 +16,4 @@ An Analytic Website Discord Info Logger Coded in PHP (Uses ip-api.com & ipapi.co
 
 ## Credits
 - [@DimisSSH](https://github.com/DimisSSH)
+
